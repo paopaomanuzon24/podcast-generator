@@ -1,4 +1,4 @@
-name: "Podcat Generator"
+name: "Podcast Generator pao"
 author: "Paul Manuzon"
 description : "Generate a feed for a podcast from a YAML file"
 runs: 
